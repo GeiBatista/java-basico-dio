@@ -1,2 +1,2 @@
 # java-basico-dio
-Repositório para estudar formação java na DIO 
+Repositório para estudar java na formação DIO 
