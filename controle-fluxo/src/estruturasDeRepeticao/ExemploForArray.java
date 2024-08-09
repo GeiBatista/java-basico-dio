@@ -5,8 +5,8 @@ public class ExemploForArray {
 
         String irmaos [] = {"Paulo", "Jairo", "Emília", "Moisés"};
 
-        for(int x = 0; x < irmaos.length; x ++){
-            System.out.println("O irmão no índice " + x + " é: " + irmaos[x]);
+        for (String irmao : irmaos) {
+            System.out.println("Nome do irmão: " + irmao);
         }
         
     }
